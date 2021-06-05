@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @le0pa-RD
 - 👀 I’m interested in things
 - 🌱 I’m currently learning how to program a PIC
-- 💞️ I’m looking to collaborate on automotive technologies
+- 📝 I'm working on my own website "www.beghel.com"
 - 📫 Reach me via e-mail at "paolo@magil.it"
 
 <!---
