@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @le0pa-RD
+- 💖 I love gummy candies
 - 👀 I’m interested in things
 - 🌱 I’m currently learning how to program a PIC
 - 📝 I'm working on my own website "www.beghel.com"
