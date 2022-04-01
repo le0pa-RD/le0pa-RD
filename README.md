@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @le0pa-RD
 - 💖 I love gummy candies
 - 👀 I’m interested in things
-- 🌱 I’m currently learning about cars ecu remapping tools and software
+- 🌱 I’m currently learning about EFI tuning for cars
+- 📚 I'm an industrial engineering student at UniTN
 - 📝 I'm working on my own website "www.beghel.com"
 - 📫 Reach me via e-mail at "paolo@magil.it"
 
